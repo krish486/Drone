@@ -55,3 +55,26 @@ This made me realize something important:
 The project was no longer just about creating a 3D model. I now needed to learn **aerodynamics, propulsion, electronics, battery calculations, structural design, and eventually flight control**.
 
 And that meant going back to learning from the basics.
+
+## Day 3 — Understanding the Drone’s Core Systems
+
+On Day 3, I continued my research into how a drone actually works at a system level. Instead of focusing only on the physical design, I started understanding the **overall architecture of a quadcopter**.
+
+I first studied the **schematic layout of a quadcopter**. This helped me understand how the major components are connected and how they work together to make the drone fly.
+
+After that, I studied the **key subsystems of a quadcopter**. I started identifying the different parts involved in the complete system, rather than thinking of the drone as just a body with motors and propellers.
+
+I also started learning about **propulsion system selection**. This introduced me to the idea that choosing a motor and propeller is not simply a matter of picking something powerful. The propulsion system has to be selected according to factors such as the drone's weight, required thrust, propeller characteristics, and battery requirements.
+
+This was another important step in my learning because I began to understand that every component of the drone is connected to the others. A decision about the motor can affect the propeller, battery, weight, and ultimately the flight performance.
+
+### What I Learned
+
+* Basic schematic layout of a quadcopter
+* Key subsystems involved in a drone
+* Introduction to propulsion system selection
+* Why motor, propeller, battery, and weight must be considered together
+* The importance of understanding the complete system before selecting individual components
+
+> **The more I study, the more I realize that building a drone is not just about assembling parts. It is about understanding how every part works together as one system.**
+
