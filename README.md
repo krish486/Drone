@@ -78,3 +78,110 @@ This was another important step in my learning because I began to understand tha
 
 > **The more I study, the more I realize that building a drone is not just about assembling parts. It is about understanding how every part works together as one system.**
 
+## Day 4 — Understanding the Components and Facing the Cost
+
+Day 4 was one of the most information-heavy days of my drone journey. I went deeper into the **selection of the propulsion system** and started learning about the individual components that make a drone capable of flying.
+
+I first learned about **Brushless DC (BLDC) motors**, which are commonly used in drones because of their high efficiency and ability to provide the required power-to-weight ratio.
+
+One of the important concepts I learned was the **KV rating of a motor**. I also studied how different motor sizes are suitable for different types and sizes of drones, and how motor efficiency and output depend on the requirements of the aircraft.
+
+After the motor, I learned about the **Electronic Speed Controller (ESC)** and its role in controlling the speed of the motor.
+
+I then moved on to **propellers**. I learned about different types and characteristics of propellers and how their dimensions affect flight performance. In particular, I studied the relationship between:
+
+* Propeller length
+* Propeller pitch
+* Thrust
+
+This helped me understand that selecting a propeller is not simply about choosing the biggest one available. Its characteristics need to match the motor and the overall requirements of the drone.
+
+### Battery Selection
+
+Next, I studied **LiPo batteries**, which introduced another set of important parameters that I had never considered before.
+
+I learned about:
+
+* Cut-off voltage
+* Nominal voltage
+* Maximum voltage
+* Battery capacity
+* Discharge rate (**C rating**)
+
+I started understanding that battery selection is closely connected to the motors, ESCs, propellers, and overall power requirements of the drone.
+
+### Communication System
+
+After the propulsion system and battery, I moved towards the **communication system**.
+
+I learned about:
+
+* Radio controller
+* Telemetry radio
+* Ground Control Station (GCS)
+
+I began to understand how communication between the pilot, ground station, and drone allows the aircraft to receive commands and send information back.
+
+### Flight Controller System
+
+I then studied the **flight controller system** and learned about the role of:
+
+* Flight controller
+* GPS module
+
+The flight controller started making more sense to me as the central system responsible for processing information from different sensors and controlling the drone's movement.
+
+At this point, I had learned about a large portion of the major components required to build a complete drone.
+
+But then a completely different question came into my mind:
+
+> **How much is all of this going to cost?**
+
+### The Reality of Cost
+
+I searched for radio controllers and found that a decent controller could cost around **₹6,000**.
+
+That number immediately made me think about the total cost of the project.
+
+If one component alone could cost this much, then how much would I eventually have to spend on the motors, ESCs, propellers, battery, flight controller, GPS, frame, communication equipment, and all the other components?
+
+For the first time, I seriously started thinking:
+
+> **Will I actually be able to afford this project?**
+
+For a moment, I even thought about quitting.
+
+The thought was not because I had lost interest in the project. In fact, it was the opposite. I was worried that **money might become the reason I could not continue**.
+
+I don't want to stop this project simply because of a lack of money. At the same time, I also have to accept the reality that engineering projects require resources, and ignoring that reality will not magically make the components cheaper.
+
+I decided that I would not quit just because the project looked expensive at this stage.
+
+My decision was simple:
+
+> **Unless I reach a point where I genuinely cannot continue without spending money that I cannot arrange, I am not going to quit.**
+
+I still have some fear in the back of my mind that financial limitations could eventually stop the project. But for now, that fear is not going to make the decision for me.
+
+Instead, I will continue learning, researching, designing, and looking for ways to build the drone as **economically as possible**.
+
+### What I Learned
+
+* Brushless DC (BLDC) motors
+* Motor KV rating
+* Motor size and suitability for different drones
+* Motor efficiency and output considerations
+* Electronic Speed Controllers (ESCs)
+* Propeller types and characteristics
+* Relationship between propeller length, pitch, and thrust
+* LiPo battery selection
+* Battery voltage, capacity, and C rating
+* Drone communication systems
+* Radio controllers and telemetry
+* Ground Control Station (GCS)
+* Flight controllers
+* GPS modules
+* The importance of considering **cost and availability** alongside technical specifications
+
+> **Today I learned something that no technical tutorial could teach me: building something is not only about knowing how to build it. It is also about finding a way to make it possible with the resources you have.**
+
